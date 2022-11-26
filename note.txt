@@ -1,0 +1,16 @@
+Hello Friends My Name Is Manish Prajapati |
+Youtube Channel NonTechBg |
+1) Start XAMPP Server & Open http://localhost/phpmyadmin/
+2) Create Database |
+3) Import news_site.sql In Database |
+4) Move All Files & Folders In htdocs/news_blog Folder |
+5) Visit http://localhost/news_blog/ Frontend
+6) Visit http://localhost/news_blog/admin/ Backend CMS
+
+@admin user
+Username admin
+password admin
+
+@normal user
+Username usermanish
+password admin

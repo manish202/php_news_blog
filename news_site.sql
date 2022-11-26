@@ -101,10 +101,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`uid`, `fname`, `lname`, `uname`, `pword`, `role`) VALUES
-(1, 'manish', 'prajapati', 'manishprajapati', 'e807f1fcf82d132f9bb018ca6738a19f', 1),
-(2, 'sagar', 'patel', 'sagarpatel', 'e807f1fcf82d132f9bb018ca6738a19f', 0),
-(3, 'vinod', 'singh', 'vinodsingh', '6fb42da0e32e07b61c9f0251fe627a9c', 0),
-(4, 'dhruv', 'prajapati', 'dhruvprajapati', 'e807f1fcf82d132f9bb018ca6738a19f', 1);
+(1, 'manish', 'prajapati', 'admin', '21232f297a57a5a743894a0e4a801fc3', 1),
+(2, 'user', 'manish', 'usermanish', '21232f297a57a5a743894a0e4a801fc3', 0),
+(3, 'vinod', 'singh', 'vinodsingh', '21232f297a57a5a743894a0e4a801fc3', 0),
+(4, 'admin', 'manish', 'adminmanish', '21232f297a57a5a743894a0e4a801fc3', 1);
 
 --
 -- Indexes for dumped tables
