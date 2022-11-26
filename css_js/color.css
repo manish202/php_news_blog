@@ -1,0 +1,49 @@
+a{
+    text-decoration: none;
+}
+.logo{
+    text-transform: uppercase;
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px;
+}
+.logo a{
+    color: #fff;
+}
+.table{
+    vertical-align: middle;
+}
+table img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+.search-form,.recent-posts{
+    box-shadow: 1px 1px 3px grey;
+    border-radius: 6px;
+    padding: 9px;
+    margin-top: 0;
+}
+.search-form h3,.recent-posts h3{
+    text-transform: uppercase;
+    font-size: 22px;
+    border-left: 5px solid var(--bs-primary);
+    margin: 10px 0;
+    padding-left: 4px;
+}
+.recent-posts .card{
+    border: 0;
+}
+.recent-posts .card img{
+    width: 80px;
+    height: 60px;
+    object-fit: cover;
+}
+.recent-posts .card-body{
+    padding: 0;
+}
+.fit{
+    width: 100%;
+    height: 210px;
+    object-fit: contain;
+}

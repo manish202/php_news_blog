@@ -1,0 +1,20 @@
+a{
+    text-decoration: none;
+}
+.logo{
+    text-transform: uppercase;
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px;
+}
+.logo a{
+    color: #fff;
+}
+.table{
+    vertical-align: middle;
+}
+table img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
